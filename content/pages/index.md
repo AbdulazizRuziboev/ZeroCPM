@@ -210,10 +210,10 @@ sections:
       - title: Hamkor
         tagline: A'zamjon Umarov
         subtitle: 'Uzbekistan, Kokand city'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Frontent-dev
+
+          GG hacker
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
