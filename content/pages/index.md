@@ -179,9 +179,7 @@ sections:
     title: null
     subtitle: Bu loyiha egasi
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: Creator ZeroSHOP
         tagline: Ro'ziboyev Abdulaziz
         subtitle: 'Uzbekistan, Fergana region, Kuvasay city'
         text: >-
