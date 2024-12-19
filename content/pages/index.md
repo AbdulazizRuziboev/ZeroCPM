@@ -63,10 +63,9 @@ sections:
       - type: FeaturedItem
         title: O'rnatish
         subtitle: 4$ evaziga
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Sizga GameGuardian o'rnatish o'rgatiladi va qo'shimcha scriptlar ham
+          beriladi!
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
