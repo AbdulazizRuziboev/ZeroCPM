@@ -5,10 +5,10 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Arzon Xizmatlar
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Faqat bizda
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
@@ -39,17 +39,4 @@ seo:
   type: Seo
 type: PostFeedLayout
 bottomSections: []
-postFeed:
-  type: PagedPostsSection
-  title: null
-  subtitle: null
-  showThumbnail: true
-  showExcerpt: true
-  showDate: true
-  showAuthor: true
-  actions: []
-  elementId: null
-  variant: three-col-grid
-  colors: bg-light-fg-dark
-  hoverEffect: move-up
 ---
