@@ -209,7 +209,7 @@ sections:
         type: FeaturedItem
       - title: Hamkor
         tagline: A'zamjon Umarov
-        subtitle: 'John Doe, Company'
+        subtitle: 'Uzbekistan, Kokand city'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
