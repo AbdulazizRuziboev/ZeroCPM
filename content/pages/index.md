@@ -113,7 +113,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Scarlet
-        subtitle: Faster
+        subtitle: 15$ evaziga
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
