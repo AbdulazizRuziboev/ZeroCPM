@@ -58,7 +58,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Bu pullik manbadir !
+    subtitle: "Bu pullik manbadir!\_ Ya'ni siz ko'proq imkoniyatlarga ega bo'lasiz"
     items:
       - type: FeaturedItem
         title: 500k
