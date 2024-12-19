@@ -49,7 +49,8 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link",
-                    "altText": "Telegram"
+                    "altText": "Telegram",
+                    "showIcon": true
                 },
                 {
                     "label": "Dropdown item",
