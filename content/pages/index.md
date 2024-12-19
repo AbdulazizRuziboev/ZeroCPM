@@ -61,7 +61,7 @@ sections:
     subtitle: "Bu pullik manbadir!\_ Ya'ni siz ko'proq imkoniyatlarga ega bo'lasiz"
     items:
       - type: FeaturedItem
-        title: 500k
+        title: O'rnatish
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
