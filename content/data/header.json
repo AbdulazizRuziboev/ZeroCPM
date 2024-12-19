@@ -23,7 +23,7 @@
         {
             "label": "Bosh sahifa",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -32,7 +32,7 @@
         {
             "label": "Xizmatlar",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -60,14 +60,6 @@
                     "style": "secondary",
                     "type": "Link",
                     "altText": "+998946543033"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
                 }
             ],
             "labelStyle": "secondary",
