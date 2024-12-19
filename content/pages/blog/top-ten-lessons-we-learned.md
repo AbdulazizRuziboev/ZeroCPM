@@ -7,7 +7,10 @@ excerpt: >-
   o'yinlarni buzib ko'rishingiz mumkin! Bu juda ham qiziq va foydalidur!
   Arzonligi bo'yicha bizdan o'zib ketadigani yo'q va ishonchlisi ham ! Albatta
   bizdan arzoni bo'lishi mumkin lekin ishonchlisi emas! Biz siz uchun maxsus
-  scriptlar ham yasab beramiz! Albatta, bepul emas!
+  scriptlar ham yasab beramiz! Albatta, bepul emas! Biz sizga yana ko'p
+  narsalarni o'rgatishimiz ham mumkin albatta! Ya'ni script yasashni va pulli
+  narsalarni ochishni o'rgatishimiz mumkin bu faqat IOS qurilmalari uchun
+  albatta! 
 featuredImage:
   url: /images/ggic.png
   altText: Thumbnail
