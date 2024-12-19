@@ -1,5 +1,5 @@
 ---
-title: ZeroCPM - UZBEKISTAN
+title: ZeroCPM - Bosh sahifa
 slug: /
 sections:
   - type: GenericSection
