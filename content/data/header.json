@@ -60,14 +60,6 @@
                     "style": "secondary",
                     "type": "Link",
                     "altText": "+998946543033"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
                 }
             ],
             "labelStyle": "secondary",
