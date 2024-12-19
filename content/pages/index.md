@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/wp6543280-car-drifting-4k-desktop-wallpapers (1).jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
