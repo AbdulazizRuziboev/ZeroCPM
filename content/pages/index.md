@@ -207,9 +207,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+      - title: Hamkor
         tagline: A'zamjon Umarov
         subtitle: 'John Doe, Company'
         text: >-
