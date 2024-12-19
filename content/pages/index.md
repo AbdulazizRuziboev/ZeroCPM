@@ -182,10 +182,10 @@ sections:
       - title: Creator ZeroSHOP
         tagline: Ro'ziboyev Abdulaziz
         subtitle: 'Uzbekistan, Fergana region, Kuvasay city'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          GG Tutorials master
+
+          GG Script maker
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
