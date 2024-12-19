@@ -109,7 +109,8 @@
     "styles": {
         "self": {
             "padding": [
-                "pt-12"
+                "pt-12",
+                "pb-12"
             ]
         }
     }
