@@ -7,7 +7,7 @@ excerpt: >-
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
   dolor quas ad odit ipsum qui quia eius.
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/wp6543280-car-drifting-4k-desktop-wallpapers (1).jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
