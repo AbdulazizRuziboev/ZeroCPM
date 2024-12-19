@@ -65,7 +65,7 @@ sections:
         subtitle: 4$ evaziga
         text: >
           Sizga GameGuardian o'rnatish o'rgatiladi va qo'shimcha scriptlar ham
-          beriladi!
+          beriladi! Eng arzon narxlarda albatta!
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
