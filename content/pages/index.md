@@ -268,7 +268,7 @@ sections:
           width: full
           type: EmailFormControl
         - name: message
-          label: Message
+          label: a
           hideLabel: true
           placeholder: Your message
           width: full
