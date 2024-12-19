@@ -92,7 +92,7 @@ sections:
         subtitle: 1~3 $ evaziga
         text: >
           Sizga scriptlarni ham taklif etamiz! Bu bilan ishingiz juda ham
-          osonlashadi ⚡
+          osonlashadi !
         image:
           url: /images/icon2.svg
           altText: Featured icon two
