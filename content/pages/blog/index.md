@@ -8,7 +8,7 @@ topSections:
       text: Arzon Xizmatlar
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Faqat bizda
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
