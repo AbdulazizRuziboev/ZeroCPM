@@ -288,7 +288,7 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Yuborish
         showIcon: false
         icon: arrowRight
         iconPosition: right
