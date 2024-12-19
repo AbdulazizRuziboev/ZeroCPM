@@ -114,10 +114,9 @@ sections:
         type: FeaturedItem
       - title: Scarlet
         subtitle: 15$ evaziga
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Bu bilan istalgan turdagi pulli narsalarni ochishingiz mumkin! Bu
+          faqat IOS qurilmalari uchun ishlaydi
         image:
           url: /images/sc.png
           altText: Featured icon three
