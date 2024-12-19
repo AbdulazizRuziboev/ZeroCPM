@@ -2,7 +2,12 @@
 title: ''
 slug: top-ten-lessons-we-learned
 date: '2024-12-19'
-excerpt: Biz bilan GameGuardiani tez va sifatli o'rganing!
+excerpt: >-
+  Biz bilan GameGuardiani tez va sifatli o'rganing! Ushbu dasturda xar-xil
+  o'yinlarni buzib ko'rishingiz mumkin! Bu juda ham qiziq va foydalidur!
+  Arzonligi bo'yicha bizdan o'zib ketadigani yo'q va ishonchlisi ham ! Albatta
+  bizdan arzoni bo'lishi mumkin lekin ishonchlisi emas! Biz siz uchun maxsus
+  scriptlar ham yasab beramiz! Albatta, bepul emas!
 featuredImage:
   url: /images/ggic.png
   altText: Thumbnail
