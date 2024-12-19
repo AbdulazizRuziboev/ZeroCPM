@@ -94,7 +94,7 @@ sections:
           Sizga scriptlarni ham taklif etamiz! Bu bilan ishingiz juda ham
           osonlashadi !
         image:
-          url: /images/icon2.svg
+          url: /images/tools-icon.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
