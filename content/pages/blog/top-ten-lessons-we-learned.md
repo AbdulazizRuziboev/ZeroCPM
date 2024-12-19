@@ -1,7 +1,7 @@
 ---
 title: ''
 slug: top-ten-lessons-we-learned
-date: '2024-12-25'
+date: '2024-12-19'
 excerpt: Biz bilan GameGuardiani tez va sifatli o'rganing!
 featuredImage:
   url: /images/ggic.png
