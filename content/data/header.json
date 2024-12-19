@@ -50,7 +50,7 @@
                     "style": "secondary",
                     "type": "Link",
                     "altText": "Telegram",
-                    "showIcon": true
+                    "showIcon": false
                 },
                 {
                     "label": "Dropdown item",
