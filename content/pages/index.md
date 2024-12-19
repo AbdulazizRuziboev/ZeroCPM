@@ -263,7 +263,7 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Email manzilingiz
           isRequired: true
           width: full
           type: EmailFormControl
