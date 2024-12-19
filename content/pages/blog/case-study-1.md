@@ -14,52 +14,7 @@ featuredImage:
     self:
       borderRadius: large
   type: ImageBlock
-bottomSections:
-  - items:
-      - title: About Company
-        tagline: This is the tagline
-        subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
-        image:
-          url: /images/telus-logo.svg
-          altText: Company logo
-          styles:
-            self:
-              margin:
-                - ml-3
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pl-6
-              - pb-6
-              - pr-6
-            textAlign: left
-            borderColor: border-neutralAlt
-            borderStyle: none
-            borderWidth: 0
-            borderRadius: none
-            flexDirection: row
-        type: FeaturedItem
-    variant: small-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mb-20
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
+bottomSections: []
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
