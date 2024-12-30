@@ -54,12 +54,12 @@
                 },
                 {
                     "label": "Qo'ng'iroq",
-                    "url": "tel:+998946543033",
+                    "url": "tel:946543033",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link",
-                    "altText": "+998946543033"
+                    "altText": "+998946543033 | UZ"
                 }
             ],
             "labelStyle": "secondary",
