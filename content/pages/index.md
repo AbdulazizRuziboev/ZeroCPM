@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: GameGuardian uchun
     text: |+
-      > Bu saytda o'zingizga kerakli ma'lumot  topa olasiz degan umidaman ! 
+      >  Bu saytda o'zingizga kerakli ma'lumot   topa olasiz degan umidaman !
 
     actions:
       - label: Boshlash
