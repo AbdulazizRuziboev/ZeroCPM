@@ -78,7 +78,7 @@
         },
         {
             "label": "Kirish",
-            "url": "https://your.domain/your_login_endpoint",
+            "url": "https://zerocpm.netlify.app/your_login_endpoint",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
