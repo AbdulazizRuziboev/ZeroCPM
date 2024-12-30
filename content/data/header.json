@@ -78,11 +78,12 @@
         },
         {
             "label": "Kirish",
-            "url": "/",
+            "url": "https://zerocpm.netlify.app/your_login_endpoint",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "elementId": "YOUR_GOOGLE_CLIENT_ID"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
