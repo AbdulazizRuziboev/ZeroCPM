@@ -78,7 +78,7 @@
         },
         {
             "label": "Kirish",
-            "url": "/",
+            "url": "https://your.domain/your_login_endpoint",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
